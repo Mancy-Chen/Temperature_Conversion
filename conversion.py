@@ -1,3 +1,5 @@
+# Functions for converting temperature between celsius, fahrenheit, and kelvin
+
 # Convert celsius to fahrenheit
 def celsius_to_fahrenheit(celsius):
     fahrenheit = celsius * 9.0 / 5 + 32
