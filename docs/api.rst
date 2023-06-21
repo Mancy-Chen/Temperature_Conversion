@@ -1,7 +1,5 @@
 API documentation
-==================
+=================
 
-.. automodule:: Conversion
+.. automodule:: conversion
    :members:
-   :undoc-members:
-   :show-inheritance:
