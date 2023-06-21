@@ -5,6 +5,8 @@
 
 Welcome to temperature conversion's documentation!
 ==================================================
+They can be in Kelvin, Celsius, or Fahrenheit.
+
 
 .. toctree::
    :maxdepth: 2
